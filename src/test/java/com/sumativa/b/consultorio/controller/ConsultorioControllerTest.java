@@ -1,6 +1,5 @@
 package com.sumativa.b.consultorio.controller;
 
-import java.util.Date;
 import java.util.List;
 
 import static org.mockito.Mockito.when;
@@ -36,7 +35,6 @@ public class ConsultorioControllerTest {
     @MockBean
     private AtencionMedicaServiceImpl atencionMedicaServiceImpl;
 
-    @SuppressWarnings("deprecation")
     @Test
     public void getAllPaciente() throws Exception{
         //Arrange

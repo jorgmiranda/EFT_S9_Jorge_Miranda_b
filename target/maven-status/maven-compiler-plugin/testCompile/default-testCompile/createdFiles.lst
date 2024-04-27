@@ -1,3 +1,5 @@
-com\sumativa\b\consultorio\repository\AtencionRepositoryTest.class
 com\sumativa\b\consultorio\ConsultorioApplicationTests.class
+com\sumativa\b\consultorio\repository\PacienteRepositoryTest.class
 com\sumativa\b\consultorio\service\PacienteServiceTest.class
+com\sumativa\b\consultorio\controller\ConsultorioControllerTest.class
+com\sumativa\b\consultorio\repository\AtencionRepositoryTest.class
